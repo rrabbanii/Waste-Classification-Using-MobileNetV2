@@ -34,7 +34,7 @@ To get started with the TrashSure ML Classification Model, follow these steps:
 1. Clone this repository to your local device using `git`:
 
    ```bash
-   git clone https://github.com/TrashSure-Capstone/trashsure-ml-classification-model.git
+   git clone https://github.com/TrashSure-Team/trashsure-ml-classification-model.git
 
 2. Change your current directory to the repository:
 
