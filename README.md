@@ -1,5 +1,5 @@
 # Bangkit 2023 H2 - Product Based Capstone
-Waste Classification Using MobileNetV2
+Waste Classification Using MobileNetV2 Project
 
 ## Description
 
