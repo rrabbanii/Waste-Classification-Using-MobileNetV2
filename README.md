@@ -1,14 +1,13 @@
-# TrashSure ML Classification Model
+# Bangkit 2023 H2 - Product Based Capstone
+Waste Classification Using MobileNetV2
 
 ## Description
 
-Welcome to the TrashSure ML Classification Model repository! This repository contains an efficient machine learning model that has been trained to perform the task of classifying various waste types.
-
-The main goal of this project is to assist in the automated classification of waste items into specific categories. By leveraging machine learning techniques, we aim to contribute to environmental sustainability and waste management efforts.
+This repository contains an efficient machine learning model that has been trained to perform the task of classifying various waste types. The main goal of this project is to assist in the automated classification of waste items into specific categories. By leveraging machine learning techniques, the aim is to contribute to environmental sustainability and waste management efforts.
 
 ## Dataset
 
-We used a custom waste classification dataset for training the model. This dataset is available for download from the following link: [Custom Waste Classification Dataset](https://drive.google.com/drive/u/5/folders/1A2RNozuokGmhlhXJZ5ta48bd_dMeNf4V). The dataset contains samples from seven different waste classes, allowing our model to effectively classify waste items.
+A custom waste classification dataset was used for training the model. This dataset is available for download from the following link: [Custom Waste Classification Dataset](https://drive.google.com/drive/u/5/folders/1A2RNozuokGmhlhXJZ5ta48bd_dMeNf4V). The dataset contains samples from seven different waste classes, allowing the model to effectively classify waste items.
 
 The waste classes in the dataset include:
 1. e-Waste
@@ -29,12 +28,12 @@ Before using this classification model, please ensure that you have the followin
 
 ## Installation
 
-To get started with the TrashSure ML Classification Model, follow these steps:
+To get started with the Classification Model, follow these steps:
 
 1. Clone this repository to your local device using `git`:
 
    ```bash
-   git clone https://github.com/TrashSure-Team/trashsure-ml-classification-model.git
+   git clone https://github.com/Waste-Classification-Using-MobileNetV2/trashsure-ml-classification-model.git
 
 2. Change your current directory to the repository:
 
@@ -53,7 +52,5 @@ To get started with the TrashSure ML Classification Model, follow these steps:
    pip install -r requirements.txt
    ```
 
-## Closing Statement
-With these steps completed, you should be all set to use the TrashSure ML Classification Model for waste classification tasks. If you have any questions or encounter issues, feel free to reach us out for assistance.
 
 Happy Classifying! 🌱🗑️ `#SaveTheEarth`
